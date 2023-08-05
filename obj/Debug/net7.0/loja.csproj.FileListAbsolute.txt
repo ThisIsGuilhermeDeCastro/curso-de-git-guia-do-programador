@@ -1,0 +1,15 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\loja\bin\Debug\net7.0\loja.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\loja\bin\Debug\net7.0\loja.deps.json
+C:\Users\guilh\OneDrive\Área de Trabalho\loja\bin\Debug\net7.0\loja.runtimeconfig.json
+C:\Users\guilh\OneDrive\Área de Trabalho\loja\bin\Debug\net7.0\loja.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\loja\bin\Debug\net7.0\loja.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\loja\obj\Debug\net7.0\loja.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\loja\obj\Debug\net7.0\loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\loja\obj\Debug\net7.0\loja.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\loja\obj\Debug\net7.0\loja.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\loja\obj\Debug\net7.0\loja.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\loja\obj\Debug\net7.0\loja.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\loja\obj\Debug\net7.0\refint\loja.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\loja\obj\Debug\net7.0\loja.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\loja\obj\Debug\net7.0\loja.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\loja\obj\Debug\net7.0\ref\loja.dll
